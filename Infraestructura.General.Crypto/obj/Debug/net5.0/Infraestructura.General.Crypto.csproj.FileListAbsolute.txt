@@ -1,0 +1,12 @@
+D:\manager\ApiManager\Infraestructura.General.Crypto\obj\Debug\net5.0\Infraestructura.General.Crypto.csproj.AssemblyReference.cache
+D:\manager\ApiManager\Infraestructura.General.Crypto\obj\Debug\net5.0\Infraestructura.General.Crypto.GeneratedMSBuildEditorConfig.editorconfig
+D:\manager\ApiManager\Infraestructura.General.Crypto\obj\Debug\net5.0\Infraestructura.General.Crypto.AssemblyInfoInputs.cache
+D:\manager\ApiManager\Infraestructura.General.Crypto\obj\Debug\net5.0\Infraestructura.General.Crypto.AssemblyInfo.cs
+D:\manager\ApiManager\Infraestructura.General.Crypto\obj\Debug\net5.0\Infraestructura.General.Crypto.csproj.CoreCompileInputs.cache
+D:\manager\ApiManager\Infraestructura.General.Crypto\bin\Debug\net5.0\Infraestructura.General.Crypto.deps.json
+D:\manager\ApiManager\Infraestructura.General.Crypto\bin\Debug\net5.0\Infraestructura.General.Crypto.dll
+D:\manager\ApiManager\Infraestructura.General.Crypto\bin\Debug\net5.0\ref\Infraestructura.General.Crypto.dll
+D:\manager\ApiManager\Infraestructura.General.Crypto\bin\Debug\net5.0\Infraestructura.General.Crypto.pdb
+D:\manager\ApiManager\Infraestructura.General.Crypto\obj\Debug\net5.0\Infraestructura.General.Crypto.dll
+D:\manager\ApiManager\Infraestructura.General.Crypto\obj\Debug\net5.0\ref\Infraestructura.General.Crypto.dll
+D:\manager\ApiManager\Infraestructura.General.Crypto\obj\Debug\net5.0\Infraestructura.General.Crypto.pdb

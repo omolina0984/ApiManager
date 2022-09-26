@@ -1,0 +1,15 @@
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\bin\Debug\net5.0\Dominio.ApiManager.Entidades.deps.json
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\bin\Debug\net5.0\Dominio.ApiManager.Entidades.dll
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\bin\Debug\net5.0\ref\Dominio.ApiManager.Entidades.dll
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\bin\Debug\net5.0\Dominio.ApiManager.Entidades.pdb
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\obj\Debug\net5.0\Dominio.ApiManager.Entidades.csproj.AssemblyReference.cache
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\obj\Debug\net5.0\Dominio.ApiManager.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\obj\Debug\net5.0\Dominio.ApiManager.Entidades.AssemblyInfoInputs.cache
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\obj\Debug\net5.0\Dominio.ApiManager.Entidades.AssemblyInfo.cs
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\obj\Debug\net5.0\Dominio.ApiManager.Entidades.csproj.CoreCompileInputs.cache
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\obj\Debug\net5.0\Dominio.ApiManager.Entidades.dll
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\obj\Debug\net5.0\ref\Dominio.ApiManager.Entidades.dll
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\obj\Debug\net5.0\Dominio.ApiManager.Entidades.pdb
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\bin\Debug\net5.0\Dominio.ApiManager.Entidades.runtimeconfig.json
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\bin\Debug\net5.0\Dominio.ApiManager.Entidades.runtimeconfig.dev.json
+D:\manager\ApiManager\Dominio.ApiManager.Entidades\obj\Debug\net5.0\Dominio.ApiManager.Entidades.genruntimeconfig.cache

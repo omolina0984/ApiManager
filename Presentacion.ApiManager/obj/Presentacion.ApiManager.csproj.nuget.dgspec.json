@@ -1,0 +1,425 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\manager\\ApiManager\\Presentacion.ApiManager\\Presentacion.ApiManager.csproj": {}
+  },
+  "projects": {
+    "D:\\manager\\ApiManager\\Aplicacion.ApiManager.Services\\Aplicacion.ApiManager.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\manager\\ApiManager\\Aplicacion.ApiManager.Services\\Aplicacion.ApiManager.Services.csproj",
+        "projectName": "Aplicacion.ApiManager.Services",
+        "projectPath": "D:\\manager\\ApiManager\\Aplicacion.ApiManager.Services\\Aplicacion.ApiManager.Services.csproj",
+        "packagesPath": "C:\\Users\\LOBO MOLINA\\.nuget\\packages\\",
+        "outputPath": "D:\\manager\\ApiManager\\Aplicacion.ApiManager.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LOBO MOLINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\manager\\ApiManager\\Infrastructura.Data.DataAccess\\Infrastructura.Data.DataAccess.csproj": {
+                "projectPath": "D:\\manager\\ApiManager\\Infrastructura.Data.DataAccess\\Infrastructura.Data.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\manager\\ApiManager\\Dominio.ApiManager.Entidades\\Dominio.ApiManager.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\manager\\ApiManager\\Dominio.ApiManager.Entidades\\Dominio.ApiManager.Entidades.csproj",
+        "projectName": "Dominio.ApiManager.Entidades",
+        "projectPath": "D:\\manager\\ApiManager\\Dominio.ApiManager.Entidades\\Dominio.ApiManager.Entidades.csproj",
+        "packagesPath": "C:\\Users\\LOBO MOLINA\\.nuget\\packages\\",
+        "outputPath": "D:\\manager\\ApiManager\\Dominio.ApiManager.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LOBO MOLINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\manager\\ApiManager\\Infraestructura.General.Crypto\\Infraestructura.General.Crypto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\manager\\ApiManager\\Infraestructura.General.Crypto\\Infraestructura.General.Crypto.csproj",
+        "projectName": "Infraestructura.General.Crypto",
+        "projectPath": "D:\\manager\\ApiManager\\Infraestructura.General.Crypto\\Infraestructura.General.Crypto.csproj",
+        "packagesPath": "C:\\Users\\LOBO MOLINA\\.nuget\\packages\\",
+        "outputPath": "D:\\manager\\ApiManager\\Infraestructura.General.Crypto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LOBO MOLINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\manager\\ApiManager\\Infrastructura.Data.DataAccess\\Infrastructura.Data.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\manager\\ApiManager\\Infrastructura.Data.DataAccess\\Infrastructura.Data.DataAccess.csproj",
+        "projectName": "Infrastructura.Data.DataAccess",
+        "projectPath": "D:\\manager\\ApiManager\\Infrastructura.Data.DataAccess\\Infrastructura.Data.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\LOBO MOLINA\\.nuget\\packages\\",
+        "outputPath": "D:\\manager\\ApiManager\\Infrastructura.Data.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LOBO MOLINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\manager\\ApiManager\\Dominio.ApiManager.Entidades\\Dominio.ApiManager.Entidades.csproj": {
+                "projectPath": "D:\\manager\\ApiManager\\Dominio.ApiManager.Entidades\\Dominio.ApiManager.Entidades.csproj"
+              },
+              "D:\\manager\\ApiManager\\Infraestructura.General.Crypto\\Infraestructura.General.Crypto.csproj": {
+                "projectPath": "D:\\manager\\ApiManager\\Infraestructura.General.Crypto\\Infraestructura.General.Crypto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\manager\\ApiManager\\Infrastructure.Ioc\\Infrastructure.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\manager\\ApiManager\\Infrastructure.Ioc\\Infrastructure.Ioc.csproj",
+        "projectName": "Infrastructure.Ioc",
+        "projectPath": "D:\\manager\\ApiManager\\Infrastructure.Ioc\\Infrastructure.Ioc.csproj",
+        "packagesPath": "C:\\Users\\LOBO MOLINA\\.nuget\\packages\\",
+        "outputPath": "D:\\manager\\ApiManager\\Infrastructure.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LOBO MOLINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\manager\\ApiManager\\Aplicacion.ApiManager.Services\\Aplicacion.ApiManager.Services.csproj": {
+                "projectPath": "D:\\manager\\ApiManager\\Aplicacion.ApiManager.Services\\Aplicacion.ApiManager.Services.csproj"
+              },
+              "D:\\manager\\ApiManager\\Infraestructura.General.Crypto\\Infraestructura.General.Crypto.csproj": {
+                "projectPath": "D:\\manager\\ApiManager\\Infraestructura.General.Crypto\\Infraestructura.General.Crypto.csproj"
+              },
+              "D:\\manager\\ApiManager\\Infrastructura.Data.DataAccess\\Infrastructura.Data.DataAccess.csproj": {
+                "projectPath": "D:\\manager\\ApiManager\\Infrastructura.Data.DataAccess\\Infrastructura.Data.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\manager\\ApiManager\\Presentacion.ApiManager\\Presentacion.ApiManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\manager\\ApiManager\\Presentacion.ApiManager\\Presentacion.ApiManager.csproj",
+        "projectName": "Presentacion.ApiManager",
+        "projectPath": "D:\\manager\\ApiManager\\Presentacion.ApiManager\\Presentacion.ApiManager.csproj",
+        "packagesPath": "C:\\Users\\LOBO MOLINA\\.nuget\\packages\\",
+        "outputPath": "D:\\manager\\ApiManager\\Presentacion.ApiManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LOBO MOLINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\manager\\ApiManager\\Aplicacion.ApiManager.Services\\Aplicacion.ApiManager.Services.csproj": {
+                "projectPath": "D:\\manager\\ApiManager\\Aplicacion.ApiManager.Services\\Aplicacion.ApiManager.Services.csproj"
+              },
+              "D:\\manager\\ApiManager\\Infraestructura.General.Crypto\\Infraestructura.General.Crypto.csproj": {
+                "projectPath": "D:\\manager\\ApiManager\\Infraestructura.General.Crypto\\Infraestructura.General.Crypto.csproj"
+              },
+              "D:\\manager\\ApiManager\\Infrastructura.Data.DataAccess\\Infrastructura.Data.DataAccess.csproj": {
+                "projectPath": "D:\\manager\\ApiManager\\Infrastructura.Data.DataAccess\\Infrastructura.Data.DataAccess.csproj"
+              },
+              "D:\\manager\\ApiManager\\Infrastructure.Ioc\\Infrastructure.Ioc.csproj": {
+                "projectPath": "D:\\manager\\ApiManager\\Infrastructure.Ioc\\Infrastructure.Ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
